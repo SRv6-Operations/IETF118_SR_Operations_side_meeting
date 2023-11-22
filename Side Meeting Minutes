@@ -1,0 +1,35 @@
+Topic: SRv6 Operations
+Time: MONDAY 6 November 15:30-17:30
+Room: Palmovka 1/2	
+Chairs: Weiqiang Cheng & Daniel Voyer
+Remote Participation Link:
+https://ietf.webex.com/meet/ietfsidemeeting2 
+
+Agenda:
+Opening
+
+[Intivted Talk]
+1.	"Bell SRv6-uSID deployment"/Daniel Voyer/Bell Canada
+Q: Which vendor support the function of path tracing as you have mentioned?
+A: Only Cisco
+
+2.	"Considerations in Compressed SRv6 Deployments and Operations"/Yisong Liu/China Mobile
+Q: You mentioned that there are more than 10k nodes in CMNet. How many nodes of them support SRv6?
+A: More than 90%
+
+3.	"SRv6 Multi-Vendor Interoperability Test Status"/Carsten Rossenhoevel/EANTC
+
+4.	"SRv6 Enables Best Network in South Africa"/Zoltan Miklos/MTN
+Q: In your presentation, TI-LFA is treated as one of the most important SRv6. While SR MPLS could also support TI-LFA. Why not SR MPLS?
+A: Yes SR MPLS could also support TI-LFA. Choosing SRv6 is future oriented architectural choice.
+
+5.	"Swisscom Network Analytics Data Mesh Architecture"/Thomas Graf/Swisscom
+TBD/Luis Contreras/Telefonica
+
+6.	”Summary of recent activities around SRv6”/Luis Contreras/Telefonica
+Q: You mentioned SRv6 compression is requested. How many hops in your TE scenario?
+A: Still under analysis
+
+[Open Mic]
+Q: For Daniel, you mentioned that IPv6/SRv6 could be used to simplify the boundary protocol deployment. How does if work?
+A: BGP is requested between core and metro without IPv6 address. But IPv6 prefix could be used in route aggregation. It makes it more scalable.
